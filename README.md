@@ -1,6 +1,5 @@
 # Arduino Pythonem
 
-'''
 a = float(input("Zadej prvni cislo: "))
 b = float(input("Zadej druhe cislo: "))
 operace = input("Zadej operaci: ")
@@ -34,5 +33,3 @@ print("Kalkulacka na pocitani a porovnavani")
 pocitej(a,b,operace)
 porovnavani(a,b)
 print("Hotovo")
-
-'''
